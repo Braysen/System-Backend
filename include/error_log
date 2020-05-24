@@ -1,0 +1,1 @@
+[11-Oct-2019 23:07:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nkgfjanp/public_html/include/validarUsuario.php on line 22
